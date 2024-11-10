@@ -14,5 +14,5 @@ int main()
     cin >> len;
     sqare = calculate_sqare(len); // Вызываем функции для подсчёта объёма и площади
     value = calculate_value(len);
-    cout << "Площадь куба = " << sqare << ", а объём = " << value;// Выводим результат
+    cout << "Площадь  = " << sqare << ", а объём = " << value;// Выводим результат
 }

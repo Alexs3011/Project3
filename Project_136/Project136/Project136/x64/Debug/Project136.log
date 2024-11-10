@@ -1,2 +1,13 @@
 ﻿  main.cpp
-  Project136.vcxproj -> C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\ООП\Project136\x64\Debug\Project136.exe
+D:\Project136\Project136\main.cpp(16,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Project136\Project136\Calculate.h(21,24): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Project136\Project136\main.cpp(49): message : выполняется компиляция ссылки на экземпляр шаблон функции "void arrays::rand_mas<float>(T *,size_t)"
+          with
+          [
+              T=float
+          ]
+  Project136.vcxproj -> D:\Project136\x64\Debug\Project136.exe
