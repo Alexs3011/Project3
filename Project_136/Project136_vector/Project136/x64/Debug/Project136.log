@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\gamer\OneDrive\Рабочий стол\Project136\Project136\main.cpp(16,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\gamer\OneDrive\Рабочий стол\Project136\Project136\Calculate.h(21,24): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\gamer\OneDrive\Рабочий стол\Project136\Project136\Calculate.h(21,24): warning C4244:         with
+C:\Users\gamer\OneDrive\Рабочий стол\Project136\Project136\Calculate.h(21,24): warning C4244:         [
+C:\Users\gamer\OneDrive\Рабочий стол\Project136\Project136\Calculate.h(21,24): warning C4244:             T=float
+C:\Users\gamer\OneDrive\Рабочий стол\Project136\Project136\Calculate.h(21,24): warning C4244:         ]
+  Project136.vcxproj -> C:\Users\gamer\OneDrive\Рабочий стол\Project136\x64\Debug\Project136.exe
