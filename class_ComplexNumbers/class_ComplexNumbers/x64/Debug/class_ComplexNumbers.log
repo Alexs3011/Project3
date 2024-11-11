@@ -1,5 +1,2 @@
 ﻿  class_ComplexNumbers.cpp
-C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\ООП\class_ComplexNumbers\class_ComplexNumbers\ComplexNumbers.h(45,5): error C2059: синтаксическая ошибка: .
-C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\ООП\class_ComplexNumbers\class_ComplexNumbers\ComplexNumbers.h(47,84): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
-C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\ООП\class_ComplexNumbers\class_ComplexNumbers\class_ComplexNumbers.cpp(47,55): error C2039: "sum": не является членом "ComplexNumber".
-C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\ООП\class_ComplexNumbers\class_ComplexNumbers\class_ComplexNumbers.cpp(47,55): error C3861: sum: идентификатор не найден
+  class_ComplexNumbers.vcxproj -> C:\Users\gamer\OneDrive\Рабочий стол\Моя учеба 2 курс\ООП\class_ComplexNumbers\x64\Debug\class_ComplexNumbers.exe

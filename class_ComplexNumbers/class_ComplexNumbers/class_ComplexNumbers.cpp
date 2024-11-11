@@ -10,8 +10,11 @@ int main() {
 
     setlocale(LC_ALL, "Russian");
 
+    run_tests();
+
     double r1, im1, r2, im2;
     int choice = chois();
+
 
     try {
         if (choice == 6 || choice == 7) {
